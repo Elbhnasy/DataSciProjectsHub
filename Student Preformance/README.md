@@ -26,7 +26,7 @@ The code for this project is written in Python 3 and can be found in the Student
 
 ## Conclusion
 
-🗺️ Some interesting things from the above analysis :
+🗺️ Some interesting things from the analysis :
 - In terms of gender:
    - The male sex ratio is more than 10% more than females, demonstrating the current gender imbalance
    - Males tend to do better in math than female
