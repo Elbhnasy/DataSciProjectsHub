@@ -1,6 +1,6 @@
 #  Project: Students Performance in Exams
 
-aim of this project is to Analyze student work as an essential part of teaching. Teachers assign, collect and examine student work all the time to assess student learning and to revise and improve teaching. Ongoing assessment of student learning allows teachers to engage in continuous quality improvement of their courses. Many factors can influence a student's performance, including the influence of the parent's educational background, test preparation, student health, and so on.
+Aim of this project is to analyze student work as an essential part of teaching. Teachers assign, collect and examine student work all the time to assess student learning and to revise and improve teaching. Ongoing assessment of student learning allows teachers to engage in continuous quality improvement of their courses. Many factors can influence a student's performance, including the influence of the parent's educational background, test preparation, student health, and so on.
 
 **Objectives of Notebook:**
 
