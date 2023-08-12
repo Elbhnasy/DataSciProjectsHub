@@ -18,7 +18,7 @@ This project aims to build a model that can predict whether this mail is spam or
    - Message: the context of the message
 ## Code
 
-The code for this project is written in Python 3 and can be found in the Stroke_Prediction.ipynb file. We used several Python libraries, such as Pandas, NumPy, and Matplotlib, to explore the data, clean it, and sklearn to build models to predict employee termination.
+The code for this project is written in Python 3 and can be found in the Spam_Mail_Prediction.ipynb file. We used several Python libraries, such as Pandas, NumPy, and Matplotlib, to explore the data, clean it, and sklearn to build models to predict employee termination.
 
 
 
