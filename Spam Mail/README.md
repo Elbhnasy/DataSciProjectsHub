@@ -4,8 +4,11 @@ This project aims to build a model that can predict whether this mail is spam or
 
 ## Notebook Objectives
 1.📊Explore each column's distribution in the dataset
+
 2.📉Analysis of ham messages
+
 3.📈Analysis of spam messages
+
 4.0️⃣1️⃣Classification with ML Models LogisticRegression
 
 ## About Dataset
