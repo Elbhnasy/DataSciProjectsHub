@@ -20,7 +20,10 @@ The dataset consists of one CSV file: StudentsPerformance.csv. The file contains
 The code for this project is written in Python 3 and can be found in the Students_Performance_in_Exams.ipynb file. We used several Python libraries, such as Pandas, NumPy, and Matplotlib, to explore the data, clean it, and sklearn to build models to predict employee termination.
 
 
+## PI Bord
 
+
+https://github.com/Elbhnasy/DataSciProjectsHub/assets/63622300/5e4d9704-5efe-43a0-8f8f-1169c3d37a13
 
 
 
