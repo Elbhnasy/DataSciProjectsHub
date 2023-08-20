@@ -25,3 +25,10 @@ If you would like to contribute to this repository, please follow these steps:
 2. Create a new branch for your changes
 3. Make your changes and test them thoroughly
 4. Submit a pull request to have your changes reviewed and merged into the main branch
+
+## Author 
+
+1. [Khaled Tarek](https://www.linkedin.com/in/khaled-elbahnasy-403479203)
+2. [Hasnaa Wael](https://www.linkedin.com/in/hasnaa-wael-b1a718216/)
+
+
